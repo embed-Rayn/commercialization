@@ -4,4 +4,12 @@
 
 ## [C++ 환경과 포팅 방법](./program.md)
 
+1. 개요
+2. 개발환경
+3. 프로그램 세부
+4. 프로그램 실행 방법
+5. 실행 결과
+
 ## [PyQt GUI 프로그램 연동](https://github.com/embed-Rayn/pyQt_product)
+
+위 링크의 repository에 기술
